@@ -1,3 +1,5 @@
+![Calagopus Logo](https://calagopus.com/fulllogo.svg)
+
 # Valkey Multi-Architecture Builds
 
 Automated multi-architecture builds of [Valkey](https://github.com/valkey-io/valkey) for various platforms.
